@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# argument of database name when being executed
+# argument of database name needed when being executed
 
 TS=`sqlite3 $1 "SELECT tbl_name FROM sqlite_master WHERE type='table';"`
 
