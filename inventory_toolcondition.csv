@@ -1,0 +1,6 @@
+id,ToolCondition,ToolConditionDescription,ModifiedDate
+1,Good,"Good - Available for Renting immediately",2021-03-07
+2,Damage,"Damage - Need Repair/ Replacing before available Renting",2021-03-07
+3,Repair,"Repair - Need repair before Renting",2021-03-07
+4,Evaluate,"Evaluate - check the condition of the tool be changing the status",2021-03-07
+5,Defective,"Defective - Assess and Repair if possible or decommission",2021-03-07

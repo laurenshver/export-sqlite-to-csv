@@ -1,0 +1,8 @@
+id,ToolSubCategory,ModifiedDate,ToolCategoryID_id,ShortForm
+1,"Snow & Ice Removal",2021-03-08,1,SIR
+2,Drills,2021-03-08,2,DRL
+3,Saws,2021-03-08,2,SWS
+4,Grinders,2021-03-08,2,GD
+5,"Air Compressors",2021-03-08,3,AC
+6,"Air Nailers and Staplers",2021-03-08,3,ANS
+7,"Air Tools",2021-03-08,3,AT

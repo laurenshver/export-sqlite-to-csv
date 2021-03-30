@@ -1,0 +1,5 @@
+CustomerID,DateCreated,ModifedDate,CustomerRating,CustomerNotes,CustomerType_id
+1,2021-03-07,2021-03-07,3,"Notes about George!! He's okay lol :P",1
+2,2021-03-07,2021-03-07,4,"",1
+3,2021-03-07,2021-03-07,2,"",2
+4,2021-03-07,2021-03-07,5,"",2

@@ -1,0 +1,6 @@
+BusinessContactID,FirstName,LastName,Email,PrimaryContact,BusinessContactRoleID_id,BusinessID_id,PhoneNumberID_id
+1,Frankie,Pugh,frankie.pugh@snc.com,Y,1,1,5
+2,Miah,Torres,miah.torres@snc.com,N,2,1,6
+3,Kerri,Cortez,k.cortex@plc.com,N,1,2,7
+4,Willie,Boyce,w.boyce@plc.com,N,2,2,8
+5,Elif,Wong,e.wong@plc.com,Y,1,2,9

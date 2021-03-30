@@ -1,0 +1,4 @@
+id,InvoiceStatus,ModifiedDate
+1,Sent,2021-03-27
+2,Closed,2021-03-27
+3,Overdue,2021-03-27

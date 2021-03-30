@@ -1,0 +1,4 @@
+BusinessDiscountID,BusinessTier,BusinessDiscountPercentage,ModifiedDate
+1,Gold,8.5,2021-03-07
+2,Silver,5,2021-03-07
+3,Bronze,3,2021-03-07
