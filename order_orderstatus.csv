@@ -1,8 +1,0 @@
-id,OrderStatus,ModifiedDate
-1,Accepted,2021-03-23
-2,Shipped,2021-03-23
-3,Pending,2021-03-23
-4,Backorder,2021-03-23
-5,Extended,2021-03-23
-6,Invoiced,2021-03-23
-7,Closed,2021-03-23

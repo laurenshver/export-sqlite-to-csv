@@ -1,5 +1,0 @@
-id,TransactionDate,Amount,InvoiceID_id,PaymentMethodID_id
-1,2021-03-28,100.34,3,1
-2,2021-03-28,400.75,3,3
-3,2021-03-29,100.4,7,2
-4,2021-03-29,30.23,7,1
